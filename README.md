@@ -4,6 +4,8 @@
 
 > Built for the [Hacktoberfest Open-Source AI Challenge: Week 2 — Side Hustle](https://dev.to/challenges/hf26)
 
+![MenuMaestro UI Screenshot](assets/screenshot.jpg)
+
 ---
 
 ## What it does
