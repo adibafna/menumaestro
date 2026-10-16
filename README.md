@@ -46,7 +46,7 @@ A small Indian restaurant owner paying \$0/month in AI costs vs. \$30+/month for
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourusername/menumaestro
+git clone https://github.com/adibafna/menumaestro
 cd menumaestro
 
 # 2. Install dependencies
@@ -118,3 +118,10 @@ TEXT_MODEL   = "mistral:7b"  # any text Ollama model
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Links
+
+- 📦 **GitHub:** [github.com/adibafna/menumaestro](https://github.com/adibafna/menumaestro)
+- 🏷️ Part of [Hacktoberfest Open-Source AI Challenge: Week 2 — Side Hustle](https://dev.to/challenges/hf26)
